@@ -1,4 +1,4 @@
-# atul_airline_booking_system
+# airline_booking_system
 
 Capstone Project (Airline booking website)
 
